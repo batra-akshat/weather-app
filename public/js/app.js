@@ -1,5 +1,3 @@
-console.log('Client side javascript File!');
-
 
 const form =document.querySelector('form');
 const search =document.querySelector('input');
